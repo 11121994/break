@@ -12,13 +12,13 @@ int main (void)
     int i;
     for (i=1; i<=1000; i++) //i vai de 1 a 1000
 
-    {
-    cout <<i<<"\n";
-    }
-    cout <<"1a Sequencia - nao tem break - vai de 1 a 1000\n";
+      {
+      cout <<i<<"\n";
+      }
+       cout <<"1a Sequencia - nao tem break - vai de 1 a 1000\n";
 
-    system ("pause");
-    for (i=1; i<=1000; i++) //i vai de 1 a 1000
+     system ("pause");
+      for (i=1; i<=1000; i++) //i vai de 1 a 1000
 
     {
 
@@ -35,5 +35,5 @@ int main (void)
     system ("pause");
 
     return EXIT_SUCCESS;
-
-    }
+    
+}
